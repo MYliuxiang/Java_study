@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/03_manven" />
+    <file type="web" url="file://$PROJECT_DIR$/04_maven" />
+    <file type="web" url="file://$PROJECT_DIR$/LxResume" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/03_manven/pom.xml" />
+        <option value="$PROJECT_DIR$/../Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04_jar/pom.xml" />
+        <option value="$PROJECT_DIR$/LxResume/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
